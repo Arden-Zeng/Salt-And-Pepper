@@ -1,0 +1,74 @@
+b,0,1,0,0,0,0,Greek Yogurt Blueberry-Lemon Pancakes,294,https://www.allrecipes.com/recipe/278180/greek-yogurt-blueberry-lemon-pancakes/
+b,0,1,0,0,0,0,Matcha Pancakes,228,https://www.allrecipes.com/recipe/261190/matcha-pancakes/
+b,0,1,1,0,0,0,Big Germans,358,https://www.allrecipes.com/recipe/20520/big-germans/
+b,0,1,1,0,0,0,Whole Wheat Pancakes,264,https://www.allrecipes.com/recipe/234087/whole-wheat-pancakes-from-scratch/
+b,0,1,1,0,0,0,Blue Cornmeal Pancakes,376,https://www.allrecipes.com/recipe/45145/blue-cornmeal-pancakes/
+b,0,1,1,0,0,0,Hearty Country Hot Cakes,293,https://www.allrecipes.com/recipe/260554/hearty-country-hot-cakes/
+b,0,0,0,0,0,0,Crispy Scallion Pancakes,375,https://www.allrecipes.com/recipe/282426/crispy-scallion-pancakes/
+b,0,1,0,0,0,0,Crepes,413,https://www.allrecipes.com/recipe/256738/low-carb-pancakes-or-crepes/
+b,0,1,1,0,0,0,Old Fashioned Pancakes,158,https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/
+b,0,1,0,0,0,0,Almond Flour Paleo Pancakes,360,https://www.allrecipes.com/recipe/255515/almond-flour-paleo-pancakes/
+b,0,1,1,0,0,0,Sourdough and Banana Pancakes,173,https://www.allrecipes.com/recipe/269272/sourdough-and-banana-pancakes/
+b,0,1,0,0,0,0,Scottish Oatcakes,289,https://www.allrecipes.com/recipe/264561/scottish-oatcakes/
+b,0,1,1,0,0,0,Cheesy Ham and Asparagus Bake,201,https://www.allrecipes.com/recipe/24140/cheesy-ham-and-asparagus-bake/
+b,0,1,0,0,0,0,Egg White Breakfast Casserole,199,https://www.allrecipes.com/recipe/277804/egg-white-breakfast-casserole/
+b,0,1,1,0,0,0,Breakfast for Dinner Casserole,461,https://www.allrecipes.com/recipe/257205/breakfast-for-dinner-casserole/
+b,0,1,1,0,0,0,Super Easy Egg Casserole,340,https://www.allrecipes.com/recipe/241925/super-easy-egg-casserole/
+b,0,0,0,0,0,0,Mexican Chorizo and Potatoes,364,https://www.allrecipes.com/recipe/278683/papas-con-chorizo-mexican-chorizo-and-potatoes/
+b,0,0,0,0,0,0,Air Fryer Hash Browns,186,https://www.allrecipes.com/recipe/266403/tex-mex-air-fryer-hash-browns/
+b,0,0,0,0,0,0,Country Fried Potatoes with Hatch Chiles,305,https://www.allrecipes.com/recipe/279556/country-fried-potatoes-with-hatch-chiles/
+b,0,0,0,0,0,0,Spicy Breakfast Potatoes,534,https://www.allrecipes.com/recipe/276784/alexas-spicy-breakfast-potatoes/
+b,0,1,1,0,0,0,Breakfast Baked Potato,663,https://www.allrecipes.com/recipe/273480/breakfast-baked-potato/
+b,0,0,0,0,0,0,Sweet Potato Hash,191,https://www.allrecipes.com/recipe/266541/air-fryer-sweet-potato-hash/
+b,0,0,0,0,0,0,Home Fries,613,https://www.allrecipes.com/recipe/258117/quick-crispy-home-fries/
+b,0,0,0,0,0,0,Irish Potato Farls,218,https://www.allrecipes.com/recipe/100506/irish-potato-farls/
+b,0,0,1,0,0,0,Ham -n- Potato Casserole,578,https://www.allrecipes.com/recipe/220961/leftover-ham-n-potato-casserole/
+l,0,1,0,0,1,0,Tuna Salad,142,https://www.allrecipes.com/recipe/20185/virginas-tuna-salad/
+l,0,0,0,0,0,0,Spicy Grilled Cheese Sandwich,352,https://www.allrecipes.com/recipe/85901/spicy-grilled-cheese-sandwich/
+l,0,0,0,0,0,0,Italian Beef Sandwich,406,https://www.allrecipes.com/recipe/236322/chicago-inspired-italian-beef-sandwich/
+l,0,0,0,0,0,0,Italian Bean Soup,210,https://www.allrecipes.com/recipe/237568/basic-italian-bean-soup/
+l,0,1,0,0,0,0,Cobb Salad,525,https://www.allrecipes.com/recipe/14415/cobb-salad/
+l,0,0,0,0,0,0,Banh Mi,657,https://www.allrecipes.com/recipe/187342/banh-mi/
+l,0,0,0,0,0,0,Texas Pulled Pork,528,https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/
+l,0,0,0,0,0,0,Vegetarian Chickpea Sandwich,259,https://www.allrecipes.com/recipe/16715/vegetarian-chickpea-sandwich-filling/
+l,0,0,0,0,0,0,Grilled Chicken Salad Sandwich,1078,https://www.allrecipes.com/recipe/143587/grilled-chicken-salad-sandwich/
+l,0,0,0,0,0,0,Sloppy Joes,189,https://www.allrecipes.com/recipe/24264/sloppy-joes-ii/
+l,0,0,0,0,0,0,Chicken and Brown Rice Soup,101,https://www.allrecipes.com/recipe/233925/chicken-and-brown-rice-soup/
+l,0,0,1,0,0,0,Broccoli Soup,207,https://www.allrecipes.com/recipe/13313/best-cream-of-broccoli-soup/
+l,0,0,0,0,0,0,German Potato Salad,183,https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/
+l,0,0,0,0,0,0,Pita Bread,187,https://www.allrecipes.com/recipe/232719/chef-johns-pita-bread/
+l,0,0,0,0,0,1,Crab Legs,520,https://www.allrecipes.com/recipe/155375/crab-legs-with-garlic-butter-sauce/
+l,0,1,0,0,0,0,Meatball Sandwich,781,https://www.allrecipes.com/recipe/90321/meatball-sandwich/
+l,0,0,0,0,0,0,Gyro,179,https://www.allrecipes.com/recipe/173420/traditional-gyro-meat/
+l,0,0,1,0,0,0,Sausage Potato Kale Soup,266,https://www.allrecipes.com/recipe/231287/sausage-potato-and-kale-soup/
+l,0,1,0,0,0,0,Quinoa Black Bean Burgers,245,https://www.allrecipes.com/recipe/220661/quinoa-black-bean-burgers/
+l,0,0,0,0,0,0,BLT,439,https://www.allrecipes.com/recipe/209578/blt/
+l,1,0,0,0,0,1,Vermicelli Noodle Bowl,659,https://www.allrecipes.com/recipe/223529/vermicelli-noodle-bowl/
+l,0,0,0,0,0,0,Broccoli Bacon Salad,231,https://www.allrecipes.com/recipe/242291/easy-broccoli-bacon-salad/
+l,0,1,0,0,0,0,Macaroni Salad,532,https://www.allrecipes.com/recipe/74915/amish-macaroni-salad/
+l,0,0,0,0,0,0,Steak Soup,361,https://www.allrecipes.com/recipe/214556/steak-soup/
+l,0,0,0,0,0,0,Crab Salad,165,https://www.allrecipes.com/recipe/232287/mels-crab-salad/
+d,0,0,1,0,0,0,Tennessee Meatloaf,233,https://www.allrecipes.com/recipe/232247/tennessee-meatloaf/
+d,0,1,0,0,0,0,Lemon Chicken Tenders,441,https://www.allrecipes.com/recipe/89590/lemon-chicken-tenders/
+d,0,1,0,0,0,0,Lasagna,594,https://www.allrecipes.com/recipe/232337/kims-lasagna/
+d,0,0,0,0,0,0,Pork and Pepper Stir Fry,579,https://www.allrecipes.com/recipe/82439/pork-and-pepper-stir-fry/
+d,0,0,0,0,0,0,Corned Beef and Cabbage,839,https://www.allrecipes.com/recipe/16310/corned-beef-and-cabbage-i/
+d,0,1,1,0,0,0,Meatloaf,372,https://www.allrecipes.com/recipe/16354/easy-meatloaf/
+d,0,0,0,0,0,0,Roasted Chicken,423,https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/
+d,0,0,0,0,0,0,California Melt,335,https://www.allrecipes.com/recipe/60037/california-melt/
+d,0,0,0,0,0,0,Pot Roast,280,https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/
+d,0,1,0,0,0,0,Chicken Parmesan,471,https://www.allrecipes.com/recipe/223042/chicken-parmesan/
+d,0,1,0,0,0,0,Fried Rice,261,https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/
+d,0,0,0,0,0,0,Chicken Piccata,384,https://www.allrecipes.com/recipe/270046/easy-chicken-piccata/
+d,0,1,0,0,0,0,German Hamburgers,272,https://www.allrecipes.com/recipe/221351/german-hamburgers-frikadellen/
+d,0,0,0,0,0,0,Roasted Rack of Lamb,481,https://www.allrecipes.com/recipe/45641/roasted-rack-of-lamb/
+d,0,1,0,0,0,0,Manicotti,676,https://www.allrecipes.com/recipe/13883/manicotti/
+d,0,0,0,0,0,0,Grilled Pork Tenderloin,251,https://www.allrecipes.com/recipe/272655/grilled-pork-tenderloin-with-balsamic-honey-glaze/
+d,0,0,0,0,0,0,BBQ Baby Back Ribs,488,https://www.allrecipes.com/recipe/220987/baked-bbq-baby-back-ribs/
+d,0,0,0,0,0,0,Red Beans and Rice,630,https://www.allrecipes.com/recipe/58211/authentic-louisiana-red-beans-and-rice/
+d,0,0,0,0,0,0,Chicken Stir-Fry,700,https://www.allrecipes.com/recipe/223382/chicken-stir-fry/\
+d,0,0,0,0,0,0,Maple Salmon,265,https://www.allrecipes.com/recipe/51283/maple-salmon/
+d,0,0,0,0,0,0,BBQ Pork Chops,544,https://www.allrecipes.com/recipe/18397/slow-cooker-bbq-pork-chops/
+d,0,1,0,0,0,0,Baked Meatballs,343,https://www.allrecipes.com/recipe/268249/italian-baked-meatballs/
+
+
