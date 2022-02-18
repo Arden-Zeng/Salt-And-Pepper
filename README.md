@@ -21,7 +21,7 @@ git clone https://github.com/Arden-Zeng/Salt-And-Pepper.git
 ### Executing program
 
 ```
-java DriveCode.class
+java DriverCode.class
 ```
 
 ## Authors
